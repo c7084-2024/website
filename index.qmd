@@ -1,6 +1,8 @@
 ---
-title: "C7084 Big Data and Decision Making"
+title: "Big Data"
 ---
+
+## C7084 Big Data and Decision Making
 
 ![](img/C7084-slide.png){fig-alt="C7084 title slide" fig-align="center" width="250"}
 
