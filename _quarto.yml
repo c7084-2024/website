@@ -13,7 +13,6 @@ website:
       - section: "Information"
         contents:
           - index.qmd
-          - schedule.qmd
 
 
 
