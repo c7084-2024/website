@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to C7084. This module is a survey of aspects of applications and tools to to store, access and analyse “big data”. There is an emphasis on practical applications using SQL and lab exercises, along with lectures on selected topics."
+  },
+  {
+    "objectID": "index.html#c7084-resources",
+    "href": "index.html#c7084-resources",
+    "title": "Home",
+    "section": "C7084 Resources",
+    "text": "C7084 Resources\n\nOffice hours (Slack, Fridays by appointment)\nFreecodecamp SQL\n\n\n\nMember of the Databricks University Alliance"
+  },
+  {
+    "objectID": "index.html#harper-adams-data-science",
+    "href": "index.html#harper-adams-data-science",
+    "title": "Home",
+    "section": "Harper Adams Data Science",
+    "text": "Harper Adams Data Science\n\nThis module is a part of the MSc in Data Science for Global Agriculture, Food, and Environment at Harper Adams University, led by Ed Harris."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "The material in this module is designed to be experienced in an intensive one week format followed by an assessment meant to showcase practical skills. The work will be supported with live sessions during the main week of delivery.\n\nLectures and related material .zip file ::: lecture 05 movies db (100ish MB)\nLabs and related material .zip file\nLecture notes .zip file"
+  },
+  {
+    "objectID": "schedule.html#optional-readings",
+    "href": "schedule.html#optional-readings",
+    "title": "Schedule",
+    "section": "Optional readings",
+    "text": "Optional readings\nReadings books :: Readings articles\nBooks Gupta, V., 2022. Business Intelligence with Databricks SQL: Concepts, tools, and techniques for scaling business intelligence on the data lakehouse. Packt Publishing.\nPettit, T., Cosentino, S., 2022. The MySQL Workshop: A practical guide to working with data and managing databases with MySQL. Packt Publishing.\nTeate, R.M.P., 2021. SQL for Data Scientists: A Beginner’s Guide for Building Datasets for Analysis, 1st edition. ed. Wiley, Indianapolis.\nArticles Amani, M., Ghorbanian, A., Ahmadi, S.A., Kakooei, M., Moghimi, A., Mirmazloumi, S.M., Moghaddam, S.H.A., Mahdavi, S., Ghahremanloo, M., Parsian, S., Wu, Q., Brisco, B., 2020. Google Earth Engine Cloud Computing Platform for Remote Sensing Big Data Applications: A Comprehensive Review. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 13, 5326–5350. https://doi.org/10.1109/JSTARS.2020.3021052\nCravero, A., Sepúlveda, S., 2021. Use and Adaptations of Machine Learning in Big Data—Applications in Real Cases in Agriculture. Electronics 10, 552. https://doi.org/10.3390/electronics10050552\nGuo, H., 2017. Big Earth data: A new frontier in Earth and information sciences. Big Earth Data 1, 4–20. https://doi.org/10.1080/20964471.2017.1403062\nKamilaris, A., Kartakoullis, A., Prenafeta-Boldú, F.X., 2017. A review on the practice of big data analysis in agriculture. Computers and Electronics in Agriculture 143, 23–37. https://doi.org/10.1016/j.compag.2017.09.037\nNorthcott, R., 2020. Big data and prediction: Four case studies. Studies in History and Philosophy of Science Part A 81, 96–104. https://doi.org/10.1016/j.shpsa.2019.09.002\nPham, X., Stack, M., 2018. How data analytics is transforming agriculture. Business Horizons 61, 125–133. https://doi.org/10.1016/j.bushor.2017.09.011\nRunting, R.K., Phinn, S., Xie, Z., Venter, O., Watson, J.E.M., 2020. Opportunities for big data in conservation and sustainability. Nature Communications 11, 2003. https://doi.org/10.1038/s41467-020-15870-0\nTamiminia, H., Salehi, B., Mahdianpari, M., Quackenbush, L., Adeli, S., Brisco, B., 2020. Google Earth Engine for geo-big data applications: A meta-analysis and systematic review. ISPRS Journal of Photogrammetry and Remote Sensing 164, 152–170. https://doi.org/10.1016/j.isprsjprs.2020.04.001"
+  },
+  {
+    "objectID": "schedule.html#harper-adams-data-science",
+    "href": "schedule.html#harper-adams-data-science",
+    "title": "Schedule",
+    "section": "Harper Adams Data Science",
+    "text": "Harper Adams Data Science\n\nThis module is a part of the MSc in Data Science for Global Agriculture, Food, and Environment at Harper Adams University, led by Ed Harris."
+  }
+]

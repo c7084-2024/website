@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: "img/C7084-hex.png"
+  title: "C7084-2024 Big Data"
+  sidebar:
+    logo: "img/C7084-hex.png"
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Information"
+        contents:
+          - index.qmd
+          - schedule.qmd
+
+
+
+format:
+  html:
+    highlight-style: a11y
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
