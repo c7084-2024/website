@@ -4,7 +4,7 @@ title: "Big Data"
 
 ## C7084 Big Data and Decision Making
 
-![](img/C7084-slide.png){fig-alt="C7084 title slide" fig-align="center" width="250"}
+![](img/C7084-slide.png){fig-alt="C7084 title slide" fig-align="left" width="300"}
 
 Welcome to C7084. This module is a survey of aspects of applications and tools to to store, access and analyse "big data". There is an emphasis on practical applications using **SQL** and **lab exercises**, along with **lectures** on selected topics.
 
