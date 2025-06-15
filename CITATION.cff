@@ -1,0 +1,34 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+title: "Big Data and Decision Making"
+abstract: "A self-guided course covering big data storage, access, and analysis tools with emphasis on SQL and practical applications. Designed for data science students, featuring hands-on lab exercises, live instruction sessions, and real-world datasets, culminating in a practical skills assessment showcasing big data competencies."
+authors:
+- family-names: "Harris"
+  given-names: "W. E."
+  orcid: "https://orcid.org/0000-0002-9038-8656"
+title: "Big Data and Decision Making"
+version: 2024.1.0
+doi: 10.5281/zenodo.15669460
+date-released: 2023-08-01
+url: "https://c7084-2024.github.io/website/"
+license: MIT
+keywords:
+  - SQL
+  - big data
+  - data analysis
+  - reproducible research
+  - educational materials
+  - self-paced learning
+preferred-citation:
+  type: misc
+  authors:
+  - family-names: "Harris"
+    given-names: "W. E."
+    orcid: "https://orcid.org/0000-0002-9038-8656"
+    affiliation: "Centre for Agricultural Data Science, Harper Adams University"
+  title: "Big Data and Decision Making: An introduction to SQL and databases"
+  year: 2022  # Update to your publication year
+  url: "https://c7084-2024.github.io/website/"
+  doi: "10.5281/zenodo.15669460"
+  publisher: "Centre for Agricultural Data Science, Harper Adams University"
+  notes: "Open educational resource for learning about SQL and databases"
